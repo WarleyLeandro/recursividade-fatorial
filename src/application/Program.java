@@ -1,7 +1,7 @@
 package application;
 
 import java.util.Scanner;
-
+//@test 
 public class Program {
 
 	public static void main(String[] args) {
